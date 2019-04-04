@@ -1,0 +1,233 @@
+{
+    "thirteen": {
+        "id":98000329,
+        "title":"13",
+        "artist":"Denzel Curry",
+        "format":"EP",
+        "price":4.99,
+        "releaseDate":"June 26, 2017",
+        "quantity":14,
+        "tracklist":["Bloodshed","Hate Government","Equalizer (feat. Ronny J)","Heartless","Zeltron 6 Billion (feat. Lil Ugly Mane)"],
+        "img":"img/albums/denzel_13.jpg"
+    },
+
+    "imperial": {
+        "id":14628947,
+        "title":"Imperial",
+        "artist":"Denzel Curry",
+        "format":"Album",
+        "price":9.99,
+        "releaseDate":"March 9, 2016",
+        "quantity":4,
+        "tracklist":["ULT","Gook","Sick and Tired","Knotty Head (feat. Rick Ross)","Narcotics","Story No Title","Pure Enough","This Life","Zenith (feat. Joey Bada$$)","Good Night (feat. Twelve'len & Nell)","If Tomorrow's Not Here (feat. Twelve'len)"],
+        "img":"img/albums/denzel_imperial.jpg"
+    },
+
+    "planetShroom": {
+        "id":2185652,
+        "title":"32 Zel/Planet Shrooms",
+        "artist":"Denzel Curry",
+        "format":"EP",
+        "price":9.99,
+        "releaseDate":"June 9, 2015",
+        "quantity":12,
+        "tracklist":["32 Ave Intro","Chief Forever","Envy Me","Ultimate","Lord Vader Kush II","Ice Age (feat. Mike Dece)","Delusional Shone (featuring Twelve'len)","Past the Wudz Intro (feat. Big Rube)","Underwater","Captain Sea Fonk","Bwoii (feat. Nell & J.K. the Reaper)","Planet Shrooms II (feat. J.K. the Reaper)","Smoke 2049","Void (feat. Leonardo Safari & Fortebowie)"],
+        "img":"img/albums/denzel_planet.jpg"
+    },
+
+    "nostalgic64": {
+        "id":38179945,
+        "title":"Nostalgic 64",
+        "artist":"Denzel Curry",
+        "format":"Album",
+        "price":9.99,
+        "releaseDate":"September 3, 2013",
+        "quantity":7,
+        "tracklist":["Intro","Zone 3","Parents","Dark & Violent (feat. J.K. The Reaper & Nell)","Threatz (feat. Robb Bank$ & Yung Simmie)","Mystical Virus Pt. 3: The Scream (feat. Lil Ugly Mane & Mike G)","Widescreen","N64","Like Me (feat. Steven A. Clark)","Talk That Shit","Benz","Denny Cascade","A Day in the Life of Denzel Curry Pt. 2"],
+        "img":"img/albums/denzel_n64.jpg"
+    },
+
+    "aaba": {
+        "id":63168468,
+        "title":"All-Amerikkkan Bada$$",
+        "artist":"Joey Bada$$",
+        "format":"Album",
+        "price":11.99,
+        "releaseDate":"April 7, 2017",
+        "quantity":8,
+        "tracklist":["Good Morning Amerikkka","For My People","Temptation","Land of the Free","Devasted","Y U Don't Love Me? (Miss Amerikkka)","Rockabye Baby (feat. ScHoolboy Q)","Ring the Alarm (feat. Nyck Caution, Kirk Knight & Meechie Darko)","Super Predator (feat. Styles P)","Babylon (feat. Chronixx)","Legendary (feat. J. Cole)","Amerikkkan Idol"],
+        "img":"img/albums/joey_aaba.jpg"
+    },
+
+    "beforeDaMoney": {
+        "id":59096761,
+        "title":"B4.Da.$$",
+        "artist":"Joey Bada$$",
+        "format":"Album",
+        "price":11.99,
+        "releaseDate":"January 20, 2015",
+        "quantity":3,
+        "tracklist":["Save the Children","Greenbax (Interlude)","Paper Trail$","Piece of Mind","Big Dusty","Hazeus View","Like Me (feat. BJ the Chicago Kid)","Belly of the Beast (feat. Chronixx)","No. 99","Christ Conscious","On & On (feat. Maverick Sabre & Dyemond Lewis)","Escape 120 (feat. Raury)","Black Beetles","O.C.B.","Curry Chicken","Run up on Ya (feat. Action Bronson & Elle Varner)[Bonus]","Teach Me (feat. Kiesza)[Bonus]"],
+        "img":"img/albums/joey_b4da$$.jpg"
+    },
+
+    "summerKnights": {
+        "id":54192936,
+        "title":"Summer Knights",
+        "artist":"Joey Bada$$",
+        "format":"Mixtape",
+        "price":8.99,
+        "releaseDate":"July 1, 2013",
+        "quantity":4,
+        "tracklist":["Hillary $wank","My Yout (feat. Maverick Sabre)","Sit N' Prey (feat. Dessy & T'nah Apex)","95 Till Infinity","#longivesteelo (feat. T'nah Apex)","My Jeep (feat. Chuck Strangers, Issa Gold & Meechie Darko)","My Yout (feat. Collie Buddz)"],
+        "img":"img/albums/joey_knights.jpg"
+    },
+
+    "ninetyNine": {
+        "id":53712966,
+        "title":"1999",
+        "artist":"Joey Bada$$",
+        "format":"Mixtape",
+        "price":"Free Digital Download",
+        "releaseDate":"June 12, 2012",
+        "quantity":13,
+        "tracklist":["Summer Knights","Waves","FromdaTomb$ (feat. Chuck Strangers)","Survival Tactics (feat. Capital STEEZ)","Killuminati (feat. Capital STEEZ)","Hardknock (feat. CJ Fly)","World Domination","Pennyroyal","Funky Ho'$","Daily Routine","Snakes (feat. T'Nah Apex)","Don't Front (feat. CJ Fly)","Righteous Minds","Where It'$ At (feat. Kirk Night)","Suspect (feat. Pro Era)"],
+        "img":"img/albums/joey_1999.jpg"
+    },
+
+    "question": {
+        "id":99815202,
+        "title":"?",
+        "artist":"XXXTENTACION",
+        "format":"Album",
+        "price":9.99,
+        "releaseDate":"March 16, 2018",
+        "quantity":18,
+        "tracklist":["Introduction (instructions)"," ALONE, PART 3","Moonlight","SAD!","the remedy for a broken heart (why am i so in love)","Floor 555","NUMB","infinity (888) [feat. Joey Bada$$]","going down!","Pain = BESTFRIEND (feat. Travis Barker)","$$$","love yourself (interlude)","SMASH! (feat. PnB Rock)","i don't even speak spanish lol (feat. Rio Santana, Judah & Carlos Andrez)","changes","Hope","schizophrenia","before i close my eyes"],
+        "img":"img/albums/xxx_question.jpg"
+    },
+
+    "seventeen": {
+        "id":29701665,
+        "title":"17",
+        "artist":"XXXTENTACION",
+        "format":"Album",
+        "price":9.99,
+        "releaseDate":"August 25, 2017",
+        "quantity":17,
+        "tracklist":["The Explanation","Jocelyn Flores","Depression & Obsession","Everybody Dies in Their Nightmares","Revenge","Save Me","Dead Inside (Interlude)","F**k Love (feat. Trippie Redd)","Carry On","Orlando","Ayala (Outro)"],
+        "img":"img/albums/xxx_17.jpg"
+    },
+
+    "revenge": {
+        "id":31474462,
+        "title":"Revenge",
+        "artist":"XXXTENTACION",
+        "format":"Mixtape",
+        "price":6.99,
+        "releaseDate":"May 16, 2017",
+        "quantity":4,
+        "tracklist":["Look At Me!","I Don't Wanna Do This Anymore","Looking for a Star","King","Slipknot (feat. Kin$oul & Killstation)","YuNg BrAtZ","RIP ROACH (feat. $ki Mask The Slump God)"],
+        "img":"img/albums/xxx_revenge.jpg"
+    },
+
+    "trip": {
+        "id":97279934,
+        "title":"Trip",
+        "artist":"Jhené Aiko",
+        "format":"Album",
+        "price":14.99,
+        "releaseDate":"September 22, 2017",
+        "quantity":16,
+        "tracklist":["LSD","Jukai","While We're Young","Moments (feat. Big Sean)","OLLA (Only Lovers Left Alive) (feat. Twenty88)","When We Love","Sativa (feat. Swae Lee)","New Balance","Newer Balance (Freestyle)","You Are Here","Never Call Me (feat. Kurupt)","Nobody","Overstimulated","Bad Trip (Interlude)","Oblivion (Creation) (feat. Dr. Chill)","Psilocybin (Love in Full Effect) (feat. Dr. Chill)","Mystic Journey (Freestyle)","Picture Perfect (Freestyle)","Sing to Me (feat. Namiko Love)","Frequency","Ascension (feat. Brandy)","Trip (feat. Mali Music)"],
+        "img":"img/albums/jhene_trip.jpg"
+    },
+
+    "souledOut": {
+        "id":18920920,
+        "title":"Souled Out",
+        "artist":"Jhené Aiko",
+        "format":"Album",
+        "price":7.99,
+        "releaseDate":"September 9, 2014",
+        "quantity":16,
+        "tracklist":["Limbo Limbo Limbo","W.A.Y.S.","To Love & Die (feat. Cocaine 80s)","Spotless Mind","It's Cool","Lyin King","Wading","The Pressure","Brave","Eternal Sunshine","Promises (feat. Miyagi and Namiko)","Pretty Bird (Freestyle) (feat. Common)"],
+        "img":"img/albums/jhene_souled.jpg"
+    },
+
+    "sailOut": {
+        "id":57673036,
+        "title":"Sail Out",
+        "artist":"Jhené Aiko",
+        "format":"EP",
+        "price":5.99,
+        "releaseDate":"November 12, 2013",
+        "quantity":12,
+        "tracklist":["The Vapors (feat. Vince Staples)","Bed Peace (feat. Childish Gambino)","Stay Ready (What a Life) (feat. Kendrick Lamar)","WTH (feat. Ab-Soul)","The Worst","3:16AM","Comfort Inn Ending (Freestyle)"],
+        "img":"img/albums/jhene_sailout.jpg"
+    },
+
+    "sailingSouls": {
+        "id":59659648,
+        "title":"Sailing Souls",
+        "artist":"Jhené Aiko",
+        "format":"Mixtape",
+        "price":"",
+        "releaseDate":"November 12, 2013",
+        "quantity":12,
+        "tracklist":["The Beginning","Stranger","Hoe (feat. Miguel & Gucci Mane)","July (feat. Drake)","My Mine","Popular","Real Now (feat. Lite, H.O.P.E. & K. Roosevelt)","Sailing NOT Selling (featuring Kanye West)","Do Better Blues (with H.O.P.E.)","Higher","You vs Them","Space Jam","Growing Apart Too (featuring Kendrick Lamar & H.O.P.E.)"],
+        "img":"img/albums/jhene_sailingsouls.jpg"
+    },
+
+    "luvIsRage2": {
+        "id":8176885,
+        "title":"Luv Is Rage 2",
+        "artist":"Lil Uzi Vert",
+        "format":"Album",
+        "price":9.99,
+        "releaseDate":"August 25, 2017",
+        "quantity":7,
+        "tracklist":["Two®","444+222","Sauce It Up","No Sleep Leak","The Way Life Goes","For Real","Feelings Mutual","Neon Guts (feat. Pharrell Williams)","Early 20 Rager","Unfazed (feat. The Weeknd)","Pretty Mami","How to Talk","Dark Queen","XO Tour Llif3","Loaded","Diamonds All On My Wrist","20 Min"],
+        "img":"img/albums/uzi_rage2.jpg"
+    },
+
+    "luvTape": {
+        "id":7258530,
+        "title":"The Perfect LUV Tape",
+        "artist":"Lil Uzi Vert",
+        "format":"Mixtape",
+        "price":7.99,
+        "releaseDate":"July 31, 2016",
+        "quantity":9,
+        "tracklist":["Do What I Want","Of Course We Ghetto Flowers (feat. Playboi Carti and Offset)","Original Uzi (4 of Us)","Money Mitch","Sideline Watching (Hold Up)","Alfa Romeo AW30 (I Can Drive)","You're Lost","Erase Your Social","Ronda (Winners)","Seven Million (feat. Future)"],
+        "img":"img/albums/uzi_tape.jpg"
+    },
+
+    "luvWorld": {
+        "id":5786201,"title":"Lil Uzi Vert vs. the World","artist":"Lil Uzi Vert","format":"Mixtape","price":6.99,"releaseDate":"April 15, 2016","quantity":11,"tracklist":["Canadian Goose","Hi Roller","Money Longer","Grab the Wheel","You Was Right","Baby Are You Home","Ps & Qs","Team Rocket","Ronda (Winners)","Scott and Ramona"],"img":"img/albums/uzi_world.jpg"
+    },
+
+    "luvIsRage": {
+        "id":9032817,
+        "title":"Luv Is Rage",
+        "artist":"Lil Uzi Vert",
+        "format":"Mixtape",
+        "price":7.99,
+        "releaseDate":"October 30, 2015",
+        "quantity":10,
+        "tracklist":["Safe House","Banned from TV","Super Saiyan","7AM","Yamborghini Dream (feat. Young Thug)","Right Now","Moist","Top","Queso (feat. Wiz Khalifa)","All My Chains","Belly","Wit My Crew / 1987","Nuyork Night At 21","Enemies","Ballin' to the End","Paradise (Bonus)"],
+        "img":"img/albums/uzi_rage.jpg"
+    },
+
+    "realUzi": {
+        "id":5550078,
+        "title":"The Real Uzi",
+        "artist":"Lil Uzi Vert",
+        "format":"Mixtape",
+        "price":"",
+        "releaseDate":"August 5, 2014",
+        "quantity":17,
+        "tracklist":["Uzi Intro","U.Z.I","We On It","Understand","Trunk Got Birdies","Whippin' (feat. A$AP Ant & Tootie Ro)","Decapitator","Senor Guapo","What You Off","Tropics","Dumber","I'm Sorry","As!an Chicks (feat. Gillie Da Kid)","I Don't Know Nuffin","Plugged In","Like 50","Trappin Work (feat. Kur)"],
+        "img":"img/albums/uzi_real.jpg"
+    }
+}

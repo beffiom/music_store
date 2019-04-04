@@ -1,0 +1,1 @@
+function init(){var t=document.createElement("h1");t.appendChild(document.createTextNode("Artists To Watch")),upcomingArtists.appendChild(t);for(var a=0;a<artistDatabase.length;a++)displayAllArtists(artistDatabase[a])}window.onload=init;

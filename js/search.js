@@ -1,0 +1,1 @@
+function search(){"use strict";var e=document.getElementById("searchTxt").value;return localStorage.setItem("searchVal",e),!0}function init(){"use strict";document&&document.getElementById&&(document.getElementById("searchForm").onsubmit=search)}init();

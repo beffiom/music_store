@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="css/search_results.css">
+    <link rel="stylesheet" href="css/960.css">
+    <title id="pageTitle">Music Store | Search"</title>
+</head>
+
+<body>
+    <div class="content">
+        <div class="header">
+            <div class="logo"><a href="index.html"><img src="img/02.png" alt="img"</a></div>
+            <div class="search">
+                <div class="US">
+                    <form action="handler.php">
+                        <p>
+                            <select>
+                                <option disabled="disabled">Currencies</option>
+                                <option value="US Dollar">US Dollar</option>
+                                <option value="US Dollar">US Dollar</option>
+                            </select>
+                        </p>
+                    </form>
+                </div>
+
+                <div class="Currencies">Currencies:</div>
+
+                <div class="eng">
+                    <form action="handler.php">
+                        <p>
+                            <select>
+                                <option disabled="disabled">Language</option>
+                                <option value="German">German</option>
+                                <option value="US Dollar">English</option>
+                             </select>
+                        </p>
+                    </form>
+                </div>
+
+                <div class="Lang">Language:</div>
+            </div>
+
+            <div class="shop">
+                <p class="text">
+                    <span class="text1">
+                        <a target="_blank" href="">Shopping Cart</a>
+                        &nbsp;
+                    </span>
+
+                    <span class="text2">&nbsp;now in your cart 0 items&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+                    <a target="_blank" href=""> Advanced Search</a>
+                    &nbsp; |
+                    <a target="_blank" href=""> Shipping &amp; Returns&nbsp;</a>
+                    |
+                    <a target="_blank" href="">Create an Account  &nbsp;</a>
+                      |
+                    <a target="_blank" href="login.html">Log In</a>
+                </p>
+            </div>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="nav">
+            <div class="nav1"><span class="text3">
+                    <a target="index.html" href="">Homepage</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a target="_blank" href="">What's new?</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a target="_blank" href="">Specials</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a target="_blank" href="">Reviews</a>
+                    &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                    <a target="_blank" href="">Contact us</a>
+                </span>
+            </div>
+
+            <div class="form">
+                <form id = "searchForm" method="post" action="search_results.html">
+                    <input id="searchTxt" name="textfield" type="text" class="colortext"  value=" Search entire store..." />
+                    <input id="btnSubmit" name="btnSubmit" type="submit" value="Search"/>
+                </form>
+            </div>
+        </div>
+
+        <div class="results">
+            <span id="resultItems">
+                <p id = "albumQueryResponse">Sorry, no results found at this time.</p>
+            </span>
+        </div>
+
+        <div class="clear"></div>
+
+        <div class="footer">
+            <div class="foot1">
+                <p class="text6">
+                    <a target="_blank" href="">Specials</a>
+                    &nbsp; | &nbsp;
+                    <a target="_blank" href="">Advanced Search</a>
+                    &nbsp; | &nbsp;
+                    <a target="_blank" href="">Reviews</a>
+                    &nbsp; | &nbsp;
+                    <a target="_blank" href="">Create an Account</a>
+                    &nbsp; | &nbsp;
+                    <a target="_blank" href="login.html">Log In</a>
+                </p>
+            </div>
+
+            <div class="foot2">
+                <div class="v">
+                    <p class="text6">Copyright © 2010 Music Store &nbsp;
+                        <a target="_blank" href="">Privacy Notice</a>
+                        &nbsp; | &nbsp;
+                        <a target="_blank" href="">Conditions of Use</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/store.js"></script>
+    <script src="js/artists.js"></script>
+    <script src="js/search.js"></script>
+    <script src="js/search_results.js"></script>
+</body>
+
+</html>
