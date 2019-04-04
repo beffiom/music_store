@@ -5,6 +5,7 @@ School project for a client-side javascript class.
 
 ## Demo
 https://beffiom.github.io/music_store/
+**NOTE**: Github Pages can't process javascript post requests. Will return 405 error.
 
 ## Features
 ### Log In
@@ -13,10 +14,12 @@ https://beffiom.github.io/music_store/
 Validates log in form using credentials and redirects to the login page (sales-dashboard.html) if correct or returns incorrect username or password alert if incorrect.
 
 Email: admin@titanmusicstore.com
+
 Password: LogMeIn
 
 Email: beffiom@titanmusicstore.com
-Password LogMeIn
+
+Password: LogMeIn
 
 ### Search
 Enter keyword into search bar and search.js will run, match results with albums.json, and redirect to search.html returning any matches.
