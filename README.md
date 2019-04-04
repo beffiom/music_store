@@ -1,7 +1,7 @@
 # music_store
 
 ## Overview
-School project for a client side javascripting class. 
+School project for a client-side javascript class. 
 
 ## Demo
 https://beffiom.github.io/music_store/
